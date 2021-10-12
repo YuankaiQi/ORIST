@@ -1,2 +1,2 @@
 # ORIST
-Codes will be released today.
+Codes will be updated today.
