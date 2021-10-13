@@ -80,6 +80,7 @@ If you find this code or data useful for your research, please consider citing:
                Qi Wu},
   title     = {The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation},
   booktitle   = {ICCV},
+  pages     = {1655--1664},
   year      = {2021}
 }
 
