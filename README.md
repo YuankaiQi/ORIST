@@ -37,13 +37,13 @@ We will provide Docker image very soon.
     
 2. Build Matterport3D simulator
 
-Build EGL version using CMake:
-```bash
-mkdir build && cd build
-cmake -DOSMESA_RENDERING=ON ..
-make
-cd ../
-```
+   Build EGL version using CMake:
+   ```bash
+   mkdir build && cd build
+   cmake -DOSMESA_RENDERING=ON ..
+   make
+   cd ../
+   ```
 
 3. Run inference:
     sh eval_scripts/xxx.sh
