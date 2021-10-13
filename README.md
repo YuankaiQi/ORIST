@@ -46,10 +46,13 @@ We will provide Docker image very soon.
    ```
 
 3. Run inference:
-    sh eval_scripts/xxx.sh
+   
+   sh eval_scripts/xxx.sh
+    
 
 4. Run training:
-    sh run_scripts/xxx.sh
+
+   sh run_scripts/xxx.sh
 
 
 ## Citation
