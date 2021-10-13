@@ -14,7 +14,7 @@ The object features are extracted using [BUTD](https://github.com/peteanderson80
 We will provide Docker image very soon.
 
 ## Features
- * Implemeted distributed data parallel training for R2R task (pytorch).
+ * Implemented distributed data parallel training for R2R task (pytorch).
  * Some code optimization for fast training
 
 ## Quick Start
