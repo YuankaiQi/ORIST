@@ -37,7 +37,7 @@ We will provide Docker image very soon.
     
 2. Build Matterport3D simulator
 
-   Build EGL version using CMake:
+   Build OSMesa version using CMake:
    ```bash
    mkdir build && cd build
    cmake -DOSMESA_RENDERING=ON ..
