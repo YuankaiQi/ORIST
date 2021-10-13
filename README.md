@@ -1,5 +1,5 @@
-# The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation
-This is the repository of [ORIST](https://openaccess.thecvf.com/content/ICCV2021/html/Qi_The_Road_To_Know-Where_An_Object-and-Room_Informed_Sequential_BERT_for_ICCV_2021_paper.html) (ICCV 2021).
+# The Road to Know-Where: An [O]()bject-and-[R]()oom [I]()nformed [S]()equential BER[T]() for Indoor Vision-Language Navigation
+This is the repository of [ORIST](https://openaccess.thecvf.com/content/ICCV2021/html/Qi_The_Road_To_Know-Where_An_Object-and-Room_Informed_Sequential_BERT_for_ICCV_2021_paper.html) (ICCV 2021). 
 
 <p align="center">
 <img src="orist.png" width="100%">
