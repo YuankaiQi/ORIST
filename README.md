@@ -16,8 +16,10 @@ The object features are extracted using [BUTD](https://github.com/peteanderson80
 
 ## Requirements
  * Install Docker with GPU support (There are lots of tutorials, just google it.)
- * Pull the docker image: docker pull qykshr/ubuntu:orist 
-
+ * Pull the docker image: 
+ ```
+ docker pull qykshr/ubuntu:orist 
+ ```
 
 ## Quick Start
 
