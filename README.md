@@ -9,13 +9,15 @@ Some code in this repo are copied/modified from opensource implementations made 
 and [UNITER](https://github.com/ChenRocks/UNITER)
 The object features are extracted using [BUTD](https://github.com/peteanderson80/bottom-up-attention), with expanded object bounding boxes of [REVERIE](https://github.com/YuankaiQi/REVERIE).
 
+## Features of the Code
+ * Implemented distributed data parallel training (pytorch).
+ * Some code optimization for fast training
+ 
 
 ## Requirements
-We will provide Docker image very soon.
+ * Install Docker with GPU support (There are lots of tutorials, just google it.)
+ * Pull the docker image: docker pull qykshr/ubuntu:orist 
 
-## Features
- * Implemented distributed data parallel training for R2R task (pytorch).
- * Some code optimization for fast training
 
 ## Quick Start
 
