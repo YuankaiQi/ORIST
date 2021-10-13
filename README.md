@@ -1,5 +1,11 @@
 # The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation
-This is the repository of [ORIST](https://arxiv.org/abs/2104.04167) (ICCV 2021).
+This is the repository of [ORIST](https://openaccess.thecvf.com/content/ICCV2021/html/Qi_The_Road_To_Know-Where_An_Object-and-Room_Informed_Sequential_BERT_for_ICCV_2021_paper.html) (ICCV 2021).
+
+<p align="center">
+<img src="orist.png" width="100%">
+</p>
+
+
 
 Some code in this repo are copied/modified from opensource implementations made available by
 [PyTorch](https://github.com/pytorch/pytorch),
@@ -48,6 +54,8 @@ The object features are extracted using [BUTD](https://github.com/peteanderson80
    make
    cd ../
    ```
+   
+   Other versions can refer to [here](https://github.com/YuankaiQi/REVERIE#26-compile-the-matterport3d-simulator)
 
 3. Run inference:
    
