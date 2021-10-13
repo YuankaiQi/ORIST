@@ -1,0 +1,31 @@
+a,bathroom
+b,bedroom
+c,closet
+d,dining room
+e,entryway/foyer/lobby
+f,familyroom/family room
+g,garage
+h,hallway
+i,library
+j,laundryroom/mudroom/laundry room
+k,kitchen
+l,living room
+m,meetingroom/conferenceroom/meeting room/conference room
+n,lounge
+o,office
+p,porch/terrace/deck/driveway
+r,rec/game
+s,stairs
+t,toilet
+u,utilityroom/toolroom/utility room/tool room
+v,tv
+w,workout/gym/exercise
+x,outdoor
+y,balcony
+z,other room
+B,bar
+C,classroom
+D,dining booth
+S,spa/sauna
+Z,junk
+-,no-label
