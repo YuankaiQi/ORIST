@@ -32,7 +32,7 @@ The object features are extracted using [BUTD](https://github.com/peteanderson80
 1. Download processed data and pretrained models with the following command.
     * Processed data:
         * [ResNet Image feature in h5 format](https://drive.google.com/file/d/1CSpzu_u0WpoJX4SOUnVKBdlj8vf8WpwN/view?usp=sharing)
-        * [Object feature](https://drive.google.com/file/d/1fka2w03_Ck9hVgYXahJ-eu4jN_2PZlb8/view?usp=sharing)
+        * [Object feature](https://drive.google.com/file/d/1oiqkwCIeOl8m8AX13zAF56ngsf4rKbB_/view?usp=sharing)
         * [BUTD Image feature used only when no objects exist](https://drive.google.com/file/d/17OgBE3zutg5QGI7TaCXLpYS1LIa_250Z/view?usp=sharing)
     * For evaluation only:
         * [REVERIE model](https://drive.google.com/file/d/1mCpUWdP8cKy2tnH2nION08XA-YPm-wNM/view?usp=sharing)
