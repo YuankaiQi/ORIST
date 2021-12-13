@@ -69,7 +69,7 @@ The object features are extracted using [BUTD](https://github.com/peteanderson80
 
 ## Citation
 
-If you find this code or data useful for your research, please consider citing:
+If this code or data is useful for your research, please consider citing:
 ```
 @inproceedings{orist,
   author    = {Yuankai Qi and
