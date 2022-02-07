@@ -29,7 +29,7 @@ The object features are extracted using [BUTD](https://github.com/peteanderson80
 
 ## Quick Start
 
-1. Download processed data and pretrained models with the following command.
+1. Download the processed data and pretrained models:
     * Processed data:
         * [ResNet Image feature in h5 format](https://drive.google.com/file/d/1CSpzu_u0WpoJX4SOUnVKBdlj8vf8WpwN/view?usp=sharing)
         * [Object feature](https://drive.google.com/file/d/1oiqkwCIeOl8m8AX13zAF56ngsf4rKbB_/view?usp=sharing)
